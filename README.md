@@ -4,6 +4,8 @@
 
 **StockTree** is a stock price prediction tool that utilizes **Decision Tree** and **Random Forest** models to analyze and predict stock prices based on historical data. The project evaluates the effectiveness of these models across different stock tickers, including **S&P 500 companies**, and assesses the impact of various evaluation metrics.
 
+![AAPL Random Forest](imgs/aapl_rf.png)
+
 ## Features
 
 - 📈 **Data Fetching & Preprocessing**: Automatically fetches stock data using `yfinance` and prepares key indicators like **Moving Averages, Daily Returns, and Lagged Close prices**.
